@@ -1,1 +1,0 @@
-# react-vite-type-tail
